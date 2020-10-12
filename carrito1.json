@@ -16,24 +16,31 @@
         },
 	{
             "name": "Chevrolet Onix Joy",
-            "count": 1,
-            "unitCost": 1350,
+            "count": 3,
+            "unitCost": 13500,
             "currency": "USD",
             "src": "img/prod1.jpg"
         },
 	{
-            "name": "Suzuki Celerio",
-            "count": 1,
-            "unitCost": 12500,
+            "name": "Fiat Way",
+            "count": 5,
+            "unitCost": 14500,
             "currency": "USD",
-            "src": "img/prod3.jpg"
+            "src": "img/prod2.jpg"
         },
 	{
-            "name": "Suzuki Celerio",
+            "name": "Peugeot 208",
             "count": 1,
-            "unitCost": 12500,
+            "unitCost": 15200,
             "currency": "USD",
-            "src": "img/prod3.jpg"
+            "src": "img/prod4.jpg"
+        }
+	{
+            "name": "Dodge Challenger",
+            "count": 1,
+            "unitCost": 52000,
+            "currency": "USD",
+            "src": "img/cat1.jpg"
         }
     ]
 }
